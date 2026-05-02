@@ -18,7 +18,7 @@ const NAMES = [
     "Donald", "Ashley", "Steven", "Kimberly", "Paul", "Emily", "Andrew", "Donna", "Joshua", "Michelle",
     "Kenneth", "Dorothy", "Kevin", "Carol", "Brian", "Amanda", "George", "Melissa", "Edward", "Deborah",
     "Ronald", "Stephanie", "Timothy", "Rebecca", "Jason", "Sharon", "Jeffrey", "Laura", "Ryan", "Cynthia", 
-    "Mabel"
+    "Mabel", "Elsa", "Scout", "RobloxFan75000"
 ];
 
 const PREF_TYPES = [
